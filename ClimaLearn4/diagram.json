@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Hariharnath Paduchuru",
+  "author": "JM",
   "editor": "wokwi",
   "parts": [
     {
@@ -21,4 +21,5 @@
     [ "esp:15", "dht1:SDA", "green", [ "v-19.2", "h76.8", "v76.8", "h57.5" ] ]
   ],
   "dependencies": {}
+
 }
