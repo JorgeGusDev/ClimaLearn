@@ -1,8 +1,7 @@
-````md
 # Configuración de ESP32 con PlatformIO y Wokwi en Visual Studio Code
 
 ## 1. Instalación de extensiones
-- Abrir **Visual Studio Code**.
+- Abrir Visual Studio Code.
 - Ir a la sección **Extensions**.
 - Instalar la extensión **PlatformIO IDE**.
 - Instalar la extensión **Wokwi Simulator**.
@@ -32,8 +31,8 @@ lib_deps =
     knolleary/PubSubClient
     bblanchon/ArduinoJson
     beegee-tokyo/DHT sensor library for ESPx
-````
 
+```
 ## 4. Configuración del código fuente
 
 * Ir a la carpeta `src`.
@@ -86,3 +85,4 @@ elf = '.pio/build/esp32doit-devkit-v1/firmware.elf'
 
 ```
 ```
+
