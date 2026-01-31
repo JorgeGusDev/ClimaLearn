@@ -33,11 +33,11 @@ lib_deps =
     beegee-tokyo/DHT sensor library for ESPx
 
 ```
-## 4. Configuración del código fuente
+## 4. Código fuente
 
 * Ir a la carpeta `src`.
-* Abrir el archivo `main.cpp`.
-* Pegar el código correspondiente al simulador Wokwi.
+* Abrir el archivo `main.cpp` y `secrets.h`
+* Pegar el código correspondiente.
 * Verificar que se mantenga la directiva obligatoria:
 
 ```cpp
