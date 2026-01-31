@@ -36,9 +36,9 @@ lib_deps =
 ## 4. Código fuente
 
 * Ir a la carpeta `src`.
-* Abrir el archivo `main.cpp` y `secrets.h`
+* Abrir los archivos `main.cpp` y `secrets.h`
 * Pegar el código correspondiente.
-* Verificar que se mantenga la directiva obligatoria:
+* Verificar que se mantenga la directiva obligatoria en `main.cpp`:
 
 ```cpp
 #include <Arduino.h>
